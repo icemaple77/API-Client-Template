@@ -1,3 +1,4 @@
+/** API-Client-Template — historySearch.js */
 import React, { useState, useEffect } from "react";
 import { useHistory } from "react-router-dom";
 import Search from "./search";

@@ -1,3 +1,4 @@
+/** API-Client-Template — table.js */
 import React from "react";
 import { AgGridReact } from "ag-grid-react";
 import "ag-grid-community/dist/styles/ag-grid.css";

@@ -1,3 +1,4 @@
+/** API-Client-Template — history.js */
 import React from "react";
 import HistoryTable from "../component/historyTable";
 import { useState, useEffect } from "react";

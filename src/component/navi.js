@@ -1,3 +1,4 @@
+/** API-Client-Template — navi.js */
 import React from "react";
 import Home from "../pages/home"
 import History from "../pages/history"

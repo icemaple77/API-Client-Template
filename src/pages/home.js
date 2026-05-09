@@ -1,3 +1,4 @@
+/** API-Client-Template — home.js */
 import React from "react";
 import image from "../assets/images/logo.jpg"
 import 'bootstrap/dist/css/bootstrap.min.css';

@@ -1,3 +1,4 @@
+/** API-Client-Template — quote.js */
 import React from "react";
 import { useState,useEffect} from "react";
 import Search from "../component/search"

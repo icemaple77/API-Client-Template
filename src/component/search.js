@@ -1,3 +1,4 @@
+/** API-Client-Template — search.js */
 import React, { useState } from "react";
 import { Dropdown, DropdownButton } from 'react-bootstrap';
 import 'bootstrap/dist/css/bootstrap.min.css';
